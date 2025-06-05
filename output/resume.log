@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.26)  31 JAN 2025 02:57
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.26)  5 JUN 2025 14:25
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex
@@ -1502,12 +1502,12 @@ Here is how much of LuaTeX's memory you used:
  125027,1977958 words of node,token memory allocated
  455 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 57 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 2:1547,3:463,4:219,5:1660,6:93,7:11279,8:2,9:882,10:19,11:901
+   avail lists: 2:1673,3:487,4:231,5:1798,6:99,7:12239,8:2,9:960,10:19,11:982
  40209 multiletter control sequences out of 65536+600000
  77 fonts using 18409447 bytes
  75i,11n,116p,312b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/truetype/typoland/lato/Lato-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/typoland/lato/Lato-Regular.ttf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/typoland/lato/Lato-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 69419 bytes).
+Output written on resume.pdf (1 page, 70058 bytes).
 
 PDF statistics: 69 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream

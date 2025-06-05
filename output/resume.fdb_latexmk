@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1738321055.24896 "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" "output/resume.pdf" "resume" 1738321056.85362 0
+["lualatex"] 1749158713.41724 "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" "output/resume.pdf" "resume" 1749158715.18424 0
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5brands-regular-400.luc" 1729018671.49795 180115 ae2e14b5235ca8081e3dab1cde2b925f ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5free-solid-900.luc" 1729018671.43753 380940 25bf65a1c7052c5c84eac12c97b187dd ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-black.luc" 1729019288.49152 1371741 35aa9e9acab23d6c239beba59bab52f0 ""
@@ -187,14 +187,14 @@
   "/usr/local/texlive/2024/texmf-var/tex/generic/config/language.dat" 1710266660 6831 bfdb703c6246bf92c6e7b254b6450228 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1714150243 12255979 c7d01e26083d365fa005b2da45378b83 ""
   "custom-commands.tex" 1729018643.98256 1189 68773209bd9b3ca44c5fa420a78942e9 ""
-  "output/custom-commands.aux" 1738321056.54273 615 af77bdfbe75c1f09930aea910af24d5b "lualatex"
-  "output/resume.aux" 1738321056.6624 650 3f9f26f5f5b3d7f803add26cdc76051d "lualatex"
-  "output/resume.out" 1738321056.66362 264 a11f37d525fea76c44e53ee179c7a1b4 "lualatex"
+  "output/custom-commands.aux" 1749158714.85059 615 af77bdfbe75c1f09930aea910af24d5b "lualatex"
+  "output/resume.aux" 1749158714.98121 650 3f9f26f5f5b3d7f803add26cdc76051d "lualatex"
+  "output/resume.out" 1749158714.98223 264 a11f37d525fea76c44e53ee179c7a1b4 "lualatex"
   "resume.tex" 1729019588.61789 2071 1eb5b538b8c5bbb01264f5187e1a2727 ""
-  "src/education.tex" 1738320385.7056 843 a35ea70e347241886c83094c399d0622 ""
+  "src/education.tex" 1749156451.9402 858 82d12cd21dc7dcf4047ac03c87bdfdd1 ""
   "src/experience.tex" 1738320479.12672 1636 68975b58d789fb757dc3dad3208b1565 ""
   "src/heading.tex" 1729018643.98313 471 f2563f2dc74277970708eee6ad635406 ""
-  "src/projects.tex" 1738319207.94692 1337 2353244427057140b6ef845b659e5c95 ""
+  "src/projects.tex" 1749158713.21003 1685 499f174497dfa37eae7b0a86a872703c ""
   (generated)
   "output/custom-commands.aux"
   "output/resume.aux"
