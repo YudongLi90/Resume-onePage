@@ -162,7 +162,6 @@ INPUT /Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/
 INPUT /Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-italic.luc
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/totalcount/totalcount.sty
 INPUT ./output/resume.aux
-INPUT ./output/custom-commands.aux
 OUTPUT output/resume.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -171,8 +170,6 @@ INPUT ./output/resume.out
 OUTPUT output/resume.pdf
 INPUT ./output/resume.out
 OUTPUT output/resume.out
-OUTPUT output/custom-commands.aux
-INPUT ./custom-commands.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
@@ -201,6 +198,5 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./output/resume.aux
-INPUT ./output/custom-commands.aux
 INPUT ./output/resume.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb

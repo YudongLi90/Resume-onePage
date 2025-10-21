@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1761022555.12476 "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" "output/resume.pdf" "resume" 1761022556.92786 0
+["lualatex"] 1761028150.52393 "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" "output/resume.pdf" "resume" 1761028152.26247 0
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5brands-regular-400.luc" 1729018671.49795 180115 ae2e14b5235ca8081e3dab1cde2b925f ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5free-solid-900.luc" 1729018671.43753 380940 25bf65a1c7052c5c84eac12c97b187dd ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lato-black.luc" 1729019288.49152 1371741 35aa9e9acab23d6c239beba59bab52f0 ""
@@ -23,7 +23,7 @@
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1729019271.40027 128410 d0a7d6c5b84cb323c732980fd1a15945 ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1714152801.8861 127327 76a1047b4dbbf48407ed6ace26562c1b ""
   "/Users/yli5/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1714152801.83315 393669 769c0e0e6e8c574b182708535cb8016a ""
-  "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" 1761022554.91347 6473 90039da20cf41c2a89e7a4182593eb9a ""
+  "/Users/yli5/Nextcloud/CSJobs/Resume-onePage/resume.tex" 1761028150.31738 15502 7b44080b8b3067c7d3408482e68b7fbb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf" 1651520503 183524 4e4e091c8163681db1b0891d5ece3926 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf" 1651520503 303808 739de9ca58fff4c828629df35cb81f89 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -186,13 +186,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1714150378.74963 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/tex/generic/config/language.dat" 1710266660 6831 bfdb703c6246bf92c6e7b254b6450228 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1714150243 12255979 c7d01e26083d365fa005b2da45378b83 ""
-  "custom-commands.tex" 1729018643 1189 68773209bd9b3ca44c5fa420a78942e9 ""
-  "output/custom-commands.aux" 1761022556.58415 615 af77bdfbe75c1f09930aea910af24d5b "lualatex"
-  "output/resume.aux" 1761022556.71813 776 a446fe750ddefce5923b91d764448d9b "lualatex"
-  "output/resume.out" 1761022556.71913 458 fffc8804bce999679796cd29f558cbc0 "lualatex"
-  "resume.tex" 1761022554.91347 6473 90039da20cf41c2a89e7a4182593eb9a ""
+  "output/resume.aux" 1761028152.06481 747 f5833bd088e6349873828921d61e88aa "lualatex"
+  "output/resume.out" 1761028152.0655 458 fffc8804bce999679796cd29f558cbc0 "lualatex"
+  "resume.tex" 1761028150.31738 15502 7b44080b8b3067c7d3408482e68b7fbb ""
   (generated)
-  "output/custom-commands.aux"
   "output/resume.aux"
   "output/resume.log"
   "output/resume.out"
